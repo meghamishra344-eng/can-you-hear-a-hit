@@ -34,7 +34,7 @@ NUM, CAT = AUD + ["year"], ["playlist_genre"]
 PAPER, INK = "#F2EFE6", "#1A1A1A"
 PINK, BLUE, PLUM, GREY = "#FF4FA3", "#0F6FC5", "#4B2E83", "#B8B2A4"
 
-st.set_page_config(page_title="Pressing · Hit Predictor", page_icon="◐", layout="wide")
+st.set_page_config(page_title="· Hit Predictor", page_icon="◐", layout="wide")
 st.markdown(f"""<style>
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap');
 html, body, [class*="css"] {{ font-family:'Work Sans',sans-serif; }}
