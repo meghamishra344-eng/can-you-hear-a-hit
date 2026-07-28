@@ -1,4 +1,4 @@
-"""Pressing — can you hear a hit?
+"""Can you hear a hit?
 
 Scores a track's chance of landing in the top ~22% of Spotify popularity from its
 audio features, genre and release year. Model trains on first run and is cached.
