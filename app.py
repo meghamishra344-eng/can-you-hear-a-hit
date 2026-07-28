@@ -22,6 +22,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 # ---------------------------------------------------------------------------
 DEVELOPER = "Megha Mishra"
+EYEBROW = "Spotify hit predictor · machine learning project"
 YEAR = 2026
 # ---------------------------------------------------------------------------
 
